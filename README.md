@@ -2,10 +2,10 @@
 
 A robust pipeline for generating statistically similar synthetic data with comprehensive validation and overfitting risk assessment.
 
-## 📚 Table of Contents
+## Table of Contents
 
 - [Synthetic Data Generation with Advanced Validation](#synthetic-data-generation-with-advanced-validation)
-  - [📚 Table of Contents](#-table-of-contents)
+  - [Table of Contents](#-table-of-contents)
   - [Installation](#installation)
     - [Prerequisites](#prerequisites)
     - [Quick Start](#quick-start)
@@ -26,7 +26,7 @@ A robust pipeline for generating statistically similar synthetic data with compr
     - [Result Variations](#result-variations)
     - [Performance Issues](#performance-issues)
     - [Unexpected Results](#unexpected-results)
-  - [📋 Technical Details](#-technical-details)
+  - [Technical Details](#-technical-details)
     - [Requirements](#requirements)
   - [License](#license)
 
@@ -191,7 +191,7 @@ If validation shows high risk:
 - **Check data characteristics** (very small datasets may be problematic)
 - **Review parameter learning** (ensure sufficient original data)
 
-## 📋 Technical Details
+## Technical Details
 
 ### Requirements
 
