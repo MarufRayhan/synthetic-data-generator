@@ -63,9 +63,9 @@ python synthetic_data_generator.py
 ## Output example
 
 ```python
-========================================
+================================================================================
 SYNTHETIC DATA GENERATION - SUMMARY
-========================================
+================================================================================
 DATASET OVERVIEW:
  - Scaled from 500 to 1000 samples (2.0x)
   -  Method: Parameter learning + 2% controlled variation
@@ -82,7 +82,7 @@ FINAL RECOMMENDATION:
   - original_dataset.csv (500 samples)
   -  synthetic_dataset.csv (1000 samples)
   -  Comprehensive validation pipeline
-========================================
+================================================================================
 Synthetic data pipeline executed successfully!
 ```
 
