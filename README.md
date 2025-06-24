@@ -60,7 +60,7 @@ pip install -r requirements.txt
 python synthetic_data_generator.py
 ```
 
-## Output example
+## Output generated
 
 ```python
 ================================================================================
@@ -170,7 +170,7 @@ Results may vary slightly between runs due to:
 - **Floating-point precision** variations
 - **Platform differences** (Windows/Mac/Linux)
 
-This is normal behavior in ML. Focus on:
+This is normal behavior in most ML cases, the focusing parts are:
 
 - **Risk level consistency** (Low/Medium/High)
 - **Overall pattern similarity**
